@@ -30,4 +30,4 @@ var myApp = angular.module('myApp');
 
 Calling `angular.module` without the array of dependencies when the module has not yet been defined
 causes this error to be thrown. To fix it, define your module with a name and an empty array, as in
-the first example above.
+the first example above. 
